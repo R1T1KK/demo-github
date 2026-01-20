@@ -1,4 +1,4 @@
-<h1>RITIK
+<h1>RITIK</h1>
   <br>I am just learning git and github
 <br>
 Hello I am Ritik Kashyap
